@@ -1,0 +1,12 @@
+.venv/
+.deps/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.git/
+.gitignore
+outputs/
+ui_inputs/
+weights/
+*.log
